@@ -1,0 +1,4 @@
+name: YeLibrary
+version: '${project.version}'
+main: com.yecraft.library.YeLibrary
+api-version: '1.20'
