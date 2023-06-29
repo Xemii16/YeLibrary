@@ -1,7 +1,7 @@
 package com.yecraft.library.manager;
 
-import com.yecraft.essentials.utilities.PlayerInventoryItem;
-import com.yecraft.essentials.utilities.builder.ItemBuilder;
+import com.yecraft.library.PlayerInventoryItem;
+import com.yecraft.library.builder.ItemBuilder;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;

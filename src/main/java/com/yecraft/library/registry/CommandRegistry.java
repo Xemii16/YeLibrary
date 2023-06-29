@@ -1,6 +1,6 @@
 package com.yecraft.library.registry;
 
-import com.yecraft.essentials.utilities.command.BaseCommand;
+import com.yecraft.library.command.BaseCommand;
 
 import java.util.ArrayList;
 import java.util.Arrays;
