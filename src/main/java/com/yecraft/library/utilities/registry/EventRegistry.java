@@ -1,4 +1,4 @@
-package com.yecraft.library.registry;
+package com.yecraft.library.utilities.registry;
 
 import org.bukkit.Bukkit;
 import org.bukkit.event.Listener;

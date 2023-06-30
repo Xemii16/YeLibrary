@@ -1,4 +1,4 @@
-package com.yecraft.library.builder;
+package com.yecraft.library.utilities.builder;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;

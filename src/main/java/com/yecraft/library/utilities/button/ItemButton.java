@@ -1,4 +1,4 @@
-package com.yecraft.library.button;
+package com.yecraft.library.utilities.button;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;

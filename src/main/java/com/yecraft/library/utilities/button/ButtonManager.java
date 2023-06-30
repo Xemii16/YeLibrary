@@ -1,6 +1,7 @@
-package com.yecraft.library.manager;
+package com.yecraft.library.utilities.button;
 
-import com.yecraft.library.button.ItemButton;
+import com.yecraft.library.utilities.button.Button;
+import com.yecraft.library.utilities.button.ItemButton;
 
 import java.util.ArrayList;
 import java.util.Arrays;

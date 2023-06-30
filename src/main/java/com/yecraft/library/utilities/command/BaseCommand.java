@@ -1,4 +1,4 @@
-package com.yecraft.library.command;
+package com.yecraft.library.utilities.command;
 
 import dev.jorel.commandapi.CommandAPICommand;
 

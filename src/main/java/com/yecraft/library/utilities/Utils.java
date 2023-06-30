@@ -1,4 +1,4 @@
-package com.yecraft.library;
+package com.yecraft.library.utilities;
 
 import org.bukkit.inventory.ItemStack;
 import org.jetbrains.annotations.NotNull;

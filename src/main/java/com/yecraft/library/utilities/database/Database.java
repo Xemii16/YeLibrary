@@ -1,4 +1,4 @@
-package com.yecraft.library.database;
+package com.yecraft.library.utilities.database;
 
 import com.zaxxer.hikari.HikariDataSource;
 

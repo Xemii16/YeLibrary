@@ -1,4 +1,4 @@
-package com.yecraft.library.builder;
+package com.yecraft.library.utilities.builder;
 
 import net.md_5.bungee.api.ChatColor;
 

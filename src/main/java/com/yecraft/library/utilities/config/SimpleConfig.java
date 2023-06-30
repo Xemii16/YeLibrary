@@ -1,4 +1,4 @@
-package com.yecraft.library.config;
+package com.yecraft.library.utilities.config;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
