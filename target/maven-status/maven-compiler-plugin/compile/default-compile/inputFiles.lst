@@ -2,7 +2,7 @@ C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\registry\CommandRegi
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\database\Database.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\Utils.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\Reload.java
-C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\instance\ReloadInstance.java
+C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\button\ButtonManager.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\config\SimpleConfig.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\manager\ItemManager.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\builder\TextBuilder.java
@@ -12,8 +12,8 @@ C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\button\Button.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\registry\EventRegistry.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\builder\ItemBuilder.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\button\ItemButton.java
+C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\ReloadInstance.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\command\BaseCommand.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\PlayerInventoryItem.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\manager\Manager.java
 C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\instance\PrefixInstance.java
-C:\Maks\yeCraft\YeLibrary\src\main\java\com\yecraft\library\manager\ButtonManager.java

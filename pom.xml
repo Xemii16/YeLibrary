@@ -19,8 +19,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub xemii16 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/xemii16/YeLibrary</url>
+            <name>GitHub istarred Apache Maven Package</name>
+            <url>https://maven.pkg.github.com/istarred/YeLibrary</url>
         </repository>
     </distributionManagement>
 
