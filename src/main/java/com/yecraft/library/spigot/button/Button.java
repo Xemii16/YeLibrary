@@ -1,4 +1,4 @@
-package com.yecraft.library.button;
+package com.yecraft.library.spigot.button;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;

@@ -13,13 +13,13 @@ public abstract class Database {
         this.dataSource = new HikariDataSource();
     }
 
-    public Connection getConnection() throws SQLException {
-        return dataSource.getConnection();
-    }
     public void init(String jdbc, String username, String password){
         this.dataSource.setJdbcUrl(jdbc);
         this.dataSource.setUsername(username);
         this.dataSource.setPassword(password);
+    }
+    public Connection getConnection() throws SQLException {
+        return dataSource.getConnection();
     }
     public abstract void create() throws SQLException;
 

@@ -1,4 +1,4 @@
-package com.yecraft.library.instance;
+package com.yecraft.library.spigot.instance;
 
 import net.md_5.bungee.api.ChatColor;
 

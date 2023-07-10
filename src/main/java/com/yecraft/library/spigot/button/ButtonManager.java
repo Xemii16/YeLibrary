@@ -1,4 +1,4 @@
-package com.yecraft.library.button;
+package com.yecraft.library.spigot.button;
 
 import java.util.ArrayList;
 import java.util.Arrays;

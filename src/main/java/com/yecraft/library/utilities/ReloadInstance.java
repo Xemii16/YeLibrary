@@ -1,4 +1,6 @@
-package com.yecraft.library;
+package com.yecraft.library.utilities;
+
+import com.yecraft.library.utilities.Reload;
 
 import java.util.ArrayList;
 import java.util.Arrays;

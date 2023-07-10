@@ -1,4 +1,4 @@
-package com.yecraft.library.config;
+package com.yecraft.library.spigot.config;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -21,10 +21,13 @@ public class DirectoryManager {
         for (String file : directory){
             files.add(new File(plugin.getDataFolder(), file));
         }
+        files.stream().filter(file -> !file.exists()).forEach(File::mkdir);
     }
 
-    public void init(){
-        files.stream().filter(file -> !file.exists()).forEach(File::mkdir);
+    public void addDirectory(String directory){
+        File file = new File(plugin.getDataFolder(), directory);
+        files.add(file);
+        file.mkdir();
     }
 
 

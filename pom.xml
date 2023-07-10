@@ -6,7 +6,7 @@
 
     <groupId>com.yecraft</groupId>
     <artifactId>library</artifactId>
-    <version>1.1-SHAPSHOT</version>
+    <version>1.1.2-SHAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>YeLibrary</name>
@@ -19,8 +19,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub istarred Apache Maven Package</name>
-            <url>https://maven.pkg.github.com/istarred/YeLibrary</url>
+            <name>GitHub Xemii16 Apache Maven Package</name>
+            <url>https://maven.pkg.github.com/xemii16/YeLibrary</url>
         </repository>
     </distributionManagement>
 
@@ -39,27 +39,6 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>
                 <version>3.3.0</version>
-                <executions>
-                    <execution>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>shade</goal>
-                        </goals>
-                        <configuration>
-                            <createDependencyReducedPom>false</createDependencyReducedPom>
-                        </configuration>
-                    </execution>
-                </executions>
-                <configuration>
-                    <minimizeJar>true</minimizeJar>
-                    <relocations>
-                        <relocation>
-                            <pattern>dev.jorel.commandapi</pattern>
-                            <!-- TODO: Change this to my own package name -->
-                            <shadedPattern>com.yecraft.library.commandapi</shadedPattern>
-                        </relocation>
-                    </relocations>
-                </configuration>
             </plugin>
         </plugins>
         <resources>

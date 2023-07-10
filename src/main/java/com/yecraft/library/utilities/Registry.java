@@ -1,4 +1,4 @@
-package com.yecraft.library.registry;
+package com.yecraft.library.utilities;
 
 public interface Registry {
     void register();

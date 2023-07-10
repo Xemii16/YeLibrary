@@ -1,4 +1,4 @@
-package com.yecraft.library.config;
+package com.yecraft.library.spigot.config;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
@@ -21,6 +21,7 @@ public abstract class SimpleConfig {
         if (!file.exists()){
             try {
                 file.createNewFile();
+                configuration = YamlConfiguration.loadConfiguration(file);
                 defaults();
                 configuration.options().copyDefaults(true);
                 save();
